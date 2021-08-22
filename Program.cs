@@ -15,7 +15,6 @@ namespace Leet
             texto = Console.ReadLine();
 
             texto = texto.Replace("a" , "4")
-            .Replace("a" , "4")
             .Replace("A" , "4")
             .Replace("e" , "3")
             .Replace("E" , "3")
